@@ -9,7 +9,6 @@
 		<groupId>org.wangqing</groupId>
 		<artifactId>guestbook-microservices-k8s</artifactId>
 		<version>1.0</version>
-		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 
